@@ -24,7 +24,7 @@ Please follow the instructions in the following order to get things set up for t
 
     3.1 In Eclipse, go to `Help > Install New Software... >`
 
-    3.2 Copy `http://download.eclipse.org/egit/updates/1` into Eclipse, and hit <kbd>Enter</kbd>
+    3.2 Copy `http://download.eclipse.org/egit/updates/` into Eclipse, and hit <kbd>Enter</kbd>
 
     3.3 When it loads, click the Select All button
 
