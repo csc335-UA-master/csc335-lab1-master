@@ -2,7 +2,7 @@
 
 Please follow the instructions in the following order to get things set up for the projects. If you already have the software (with the correct version) you can skip to the next step.
 
-1. Install JDK 8 – If you have Java 10, that’s fine, just stick to the Java 8 subset of the language for the course. Other versions of Java are unsuitable for the course. The following instructions are for Windows and Mac; if you use Linux, use your distro's package manager to install OpenJDK 8.
+1. Install JDK 8 – If you have Java 10 or later, that’s fine, just stick to the Java 8 subset of the language for the course. (*Note that JDK 11 and 12 do not come with JavaFX, which we will be using later in the course. That will require a separate download and adding the libraries to Eclipse manually.*) Other versions of Java are unsuitable for the course. The following instructions are for Windows and Mac; if you use Linux, use your distro's package manager to install OpenJDK 8.
 
     1.1 Go to the [Java 8 download page](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and download JDK8.
 
@@ -12,7 +12,7 @@ Please follow the instructions in the following order to get things set up for t
 
     1.4 Run the installer
 
-2. Install Eclipse 2018-12
+2. Install Eclipse 2019‑06
 
     2.1 Go to the [Eclipse downloads page](http://www.eclipse.org/downloads/)
 
