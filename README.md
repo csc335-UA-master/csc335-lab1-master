@@ -2,7 +2,7 @@
 
 Please follow the instructions in the following order to get things set up for the projects. If you already have the software (with the correct version) you can skip to the next step.
 
-1. Install JDK 8 - (*Note that JDK 11 and 12 do not come with JavaFX, so install the JDK below if you are unable to run the JavaFXTest program in this repository*) Other versions of Java are unsuitable for the course. The following instructions are for Windows and Mac; if you use Linux, use your distro's package manager to install OpenJDK 8.
+1. Install JDK 8 - (*Note that JDK 11 and later do not come with JavaFX, so install the JDK below if you are unable to run the JavaFXTest program in this repository*) Other versions of Java are unsuitable for the course. The following instructions are for Windows and Mac; if you use Linux, you'll probably want to use your distro's package manager to install OpenJDK 8.
 
     1.1 Go to the [Java 8 download page](https://adoptopenjdk.net/) and download JDK8.
 
@@ -28,7 +28,7 @@ Please follow the instructions in the following order to get things set up for t
 
     3.1 In Eclipse, go to `Help > Install New Software... >`
 
-    3.2 Copy `http://download.eclipse.org/egit/updates/` into Eclipse, and hit &lt;kbd&gt;Enter&lt;/kbd&gt;
+    3.2 Copy `http://download.eclipse.org/egit/updates/` into Eclipse, and hit <kbd>Enter</kbd>
 
     3.3 When it loads, click the Select All button
 
