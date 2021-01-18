@@ -8,11 +8,10 @@ import javafx.stage.Stage;
 
 /**
  * This is a simple class to test that JavaFX works on your computer.
- * JDK 8 has JavaFX as part of its install, but JDK 11+ do not.
- * If you click the green run triangle button above and this does not
- * compile and run, then you'll need to install JDK 8 as the lab
- * document and readme files indicate. * 
  * 
+ * The lab document has the steps that need to be done to install JavaFX
+ * and get eclipse to use it to compile and run the program
+ *
  * @author Jonathan Misurda
  *
  */
